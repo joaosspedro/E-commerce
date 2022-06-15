@@ -1,8 +1,9 @@
-## Projeto - Site E-commerce
+## Projeto - Página de produtos 
 
-Objetivo do Projeto - Criação de um site de e-commerce simples com várias opções de produtos.
+#### Objetivo do Projeto:
+Criação de um site e-commerce simples com várias opções de produtos.
 
-Desafios Propostos:
+#### Desafios Propostos:
 - Usar Flexbox;
 - Criar menu fixo;
 - Html semântico;
