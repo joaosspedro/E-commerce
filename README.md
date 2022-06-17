@@ -1,6 +1,6 @@
 ## Projeto - Página de produtos 
 
-#### Objetivo do Projeto:
+#### Objetivo:
 Criação de um site e-commerce simples com várias opções de produtos.
 
 #### Desafios Propostos:
