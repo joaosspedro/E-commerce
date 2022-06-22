@@ -75,11 +75,28 @@ nav ul li a:hover {
     background-color: brown;
 }
 
-main p {
-    margin-top: 15em;
-    position: relative;
-    left: 30%;
-    width: 500px;
-    height: 600px;
-    color: black;
+/*Seção de Produtos*/
+#section-produtos {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.produtos {
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    margin-top: 10rem;
+}
+
+.produtos img {
+    width: 280px;
+    height: 280px;
+    background-size: cover;
+}
+
+.produtos p {
+    width: 300px;
 }
