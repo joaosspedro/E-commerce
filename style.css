@@ -9,7 +9,7 @@
 
 body {
     background-color: rgb(240, 240, 240);
-    height: 120vh;
+    height: 180vh;
 }
 
 /*Menu fixo*/
@@ -87,16 +87,45 @@ nav ul li a:hover {
 .produtos {
     background-color: white;
     width: 300px;
-    height: 400px;
-    margin-top: 10rem;
+    height: 420px;
+    margin-top: 6rem;
 }
 
 .produtos img {
-    width: 280px;
-    height: 280px;
+    width: 200px;
+    height: 200px;
     background-size: cover;
+    margin-bottom: 10px;
+    position: relative;
+    left: 18%;
+    top: 10px;
 }
 
 .produtos p {
-    width: 300px;
+    width: 280px;
+    margin-bottom: 5px;
+    text-align: justify;
+    position: relative;
+    left: 5px;
+    font-size: 15px;
+    top: 10px;
+}
+
+.produtos button {
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+
+.produtos button {
+    padding: 10px 50px;
+    background-color: brown;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.preco {
+    position: relative;
+    top: 5px;
 }
